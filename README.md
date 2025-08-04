@@ -1,7 +1,13 @@
 # ai-agent-portfolio
-# 👋 About Me
+# 🧠 Adi Subbarao - AI Agent Portfolio
 
-Hi, I'm Adi Subbarao – a strategic product marketing leader with deep expertise across GTM, lifecycle, paid media, and product marketing. I've led acquisition programs, user research, and growth at global tech brands (like TikTok, Amazon, and Servicenow) and smaller AI startups.
+Welcome to my collection of AI-powered tools designed to transform how you work with content, research, and automation. As a certified AI Agent builder at MindStudio, I've created dozens of specialized AI agents that solve real-world problems across content creation, research, education, and business operations.
+
+## 👋 About Me
+
+Hi, I'm Adi Subbarao, based in Seattle, WA, where I work to push the limits of what AI automation can do for businesses. With a background from UC-Berkeley in Political Economy and Tech Entrepreneurship, I bring a strategic and humanities driven approach to building AI solutions that actually work for people.
+
+I've dedicated 8+ years of my career to become a strategic product marketing leader with deep expertise across GTM, lifecycle, paid media, and product marketing. I've led acquisition programs, user research, and growth at global tech brands (like TikTok, Amazon, and Servicenow) and smaller AI startups.
 
 **My expertise includes:**
 * Growth Marketing
@@ -27,8 +33,6 @@ Ready to collaborate on AI solutions or discuss how intelligent agents can trans
 
 Located in Seattle, WA | Open to remote collaboration worldwide
 
-
-# 🧠 AI Agent Portfolio
 ## 🚀 Featured AI Agents
 ### Sales Outreach Assistant
 
