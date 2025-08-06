@@ -216,31 +216,3 @@ Located in Seattle, WA | Open to remote collaboration worldwide
 * Practical meal planning
 
 🔗 [Try it out](https://app.mindstudio.ai/agents/recipe-idea-c17786b2) | [Make a copy](https://app.mindstudio.ai/agents/recipe-idea-c17786b2/remix)
-
-### Haiku Bot
-
-**Description:** Create beautiful haiku poems from any prompt, capturing moments and emotions in traditional Japanese verse.
-
-**Use Case:** Writers and poetry enthusiasts can generate inspiring haiku for creative projects, social media, or personal reflection.
-
-**Key Features:**
-
-* Traditional haiku structure
-* Creative prompt interpretation
-* Poetic expression generation
-
-🔗 [Try it out](https://app.mindstudio.ai/agents/haiku-bot-eaee0ae2) | [Make a copy](https://app.mindstudio.ai/agents/haiku-bot-eaee0ae2/remix)
-
-### Three Word Story
-
-**Description:** Transform any object into a captivating three-word story that sparks imagination and creativity.
-
-**Use Case:** Creative writers and storytellers can use this for writing prompts, social media content, or creative exercises.
-
-**Key Features:**
-
-* Ultra-concise storytelling
-* Creative interpretation
-* Imagination spark generation
-
-🔗 [Try it out](https://app.mindstudio.ai/agents/three-word-story-4f3f4c4f) | [Make a copy](https://app.mindstudio.ai/agents/three-word-story-4f3f4c4f/remix)
