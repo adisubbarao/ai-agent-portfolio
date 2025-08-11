@@ -12,6 +12,7 @@ I've dedicated 8+ years of my career to become a strategic product marketing lea
 **My expertise includes:**
 * Growth Marketing
 * Lifecycle Marketing
+* Competitive Intelligence
 * Paid Media Marketing
 * Product Marketing
 * Go to Market (GTM) Strategy
